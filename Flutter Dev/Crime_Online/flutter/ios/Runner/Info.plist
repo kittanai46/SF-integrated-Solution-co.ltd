@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>CRIMES</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>crimes</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+		<string>comgooglemaps</string>
+		<string>baidumap</string>
+		<string>iosamap</string>
+		<string>waze</string>
+		<string>yandexmaps</string>
+		<string>yandexnavi</string>
+		<string>citymapper</string>
+		<string>mapswithme</string>
+		<string>osmandmaps</string>
+		<string>dgis</string>
+		<string>qqmap</string>
+		<string>here-location</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>AppleMusic Usage is required.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Calendars Usage is required.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>สำหรับอ่านค่าเลขบัตรประชาชน จากบัตรประชาชนหรือใบอนุญาตขับรถ</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Contacts Usage is required.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>สำหรับตั้งค่าระบบสแกนใบหน้า</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>สำหรับค้นหาสถานีตำรวจที่อยู่ใกล้ฉัน / บันทึกพิกัดการสืบค้นข้อมูล</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>สำหรับค้นหาสถานีตำรวจที่อยู่ใกล้ฉัน / บันทึกพิกัดการสืบค้นข้อมูล</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>สำหรับค้นหาสถานีตำรวจที่อยู่ใกล้ฉัน / บันทึกพิกัดการสืบค้นข้อมูล</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>สำหรับอ่านค่าเลขบัตรประชาชน จากบัตรประชาชนหรือใบอนุญาตขับรถ</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Motion Usage is required.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>สำหรับตั้งค่ารูปโปรไฟล์ หรืออ่านค่าเลขบัตรประชาชน จากภาพถ่ายบัตรประชาชนหรือใบอนุญาตขับรถ</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speech Recognition Usage is required.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>สำหรับพิสูจน์ตัวตนและอุปกรณ์ที่เชื่อมต่อกับระบบ ป้องกันการใช้งานผ่านอุปกรณ์ที่ไม่ได้รับอนุญาต</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportsDocumentBrowser</key>
+	<true/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLName</key>
+            <string>bdamobile.crimespolice.com</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>crimes</string>
+            </array>
+        </dict>
+    </array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>
