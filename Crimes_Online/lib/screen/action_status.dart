@@ -1,0 +1,1 @@
+enum ActionStatus { idle, inProgress, success, error }

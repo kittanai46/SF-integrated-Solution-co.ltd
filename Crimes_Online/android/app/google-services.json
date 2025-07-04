@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "36433200830",
+    "project_id": "crimesonline-a0147",
+    "storage_bucket": "crimesonline-a0147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36433200830:android:e8e82854a803c1fe3180ef",
+        "android_client_info": {
+          "package_name": "th.go.police.crimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36433200830-r2l3u0o4l10afg1b9nich69sud4scsvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDWS0-MTtA1zjYTseeGB9oEvVOpCVfCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36433200830-r2l3u0o4l10afg1b9nich69sud4scsvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36433200830-12s9ba5e12e18jo73q5r3vetagfjqj0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.go.police.crimes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
